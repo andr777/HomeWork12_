@@ -15,10 +15,10 @@ public interface Vehicle {
 
     int getWheelsCount();
 
-    default void setModelName(String modelName) {
+/*    default void setModelName(String modelName) {
     }
 
     default void setWheelsCount(int wheelsCount0) {
-    }
+    }*/
 
 }
